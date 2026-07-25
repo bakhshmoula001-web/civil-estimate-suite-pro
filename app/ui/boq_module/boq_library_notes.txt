@@ -1,0 +1,12 @@
+Phase 4.3 - Category & Item Library
+
+Features:
+- Master BOQ Categories
+- Reusable Item Templates
+- Auto-fill Description
+- Auto-fill Unit
+- Ready for Rate Database
+- Controller integration
+
+Expected form method:
+set_item_template(item_dict)

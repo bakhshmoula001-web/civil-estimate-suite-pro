@@ -1,0 +1,13 @@
+Phase 3.4 CRUD Integration
+
+Workflow
+Form -> Controller -> ProjectService -> Database
+
+Included:
+- Add
+- Edit
+- Update
+- Delete
+- Refresh
+- Double-click edit
+- Form binding
